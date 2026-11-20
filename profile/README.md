@@ -18,6 +18,8 @@
 
 > 以下作品开发者人员亦来自天码智能社元宇宙体素工作坊，人员贡献和项目顺序不分先后。
 
+《MineGuide》 [https://github.com/MeTMD/MineGuide](https://github.com/MeTMD/MineGuide) 
+
 《像素北科二维地图》 [https://www.ustb.world](https://www.ustb.world) 
 
 《像素北科官网》 [https://www.ustb.world/index](https://www.ustb.world/index) 
